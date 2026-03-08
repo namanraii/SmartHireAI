@@ -1,0 +1,32 @@
+John Doe
+Senior Software Engineer
+San Francisco, CA | john.doe@email.com | (555) 123-4567 | linkedin.com/in/johndoe
+
+SUMMARY
+Highly skilled Senior Software Engineer with 8+ years of experience designing, developing, and deploying scalable web applications and enterprise-grade software solutions. Expertise in full-stack development, cloud architecture, and leading cross-functional teams to deliver impactful products.
+
+EXPERIENCE
+TechNova Solutions — Senior Software Engineer (2020 - Present)
+- Led the migration of a legacy monolithic architecture to microservices using Python, Docker, and Kubernetes, improving system uptime by 99.9%.
+- Developed RESTful APIs using Django and FastAPI, handling over 10M daily requests with low latency.
+- Implemented robust CI/CD pipelines using GitHub Actions and AWS CodePipeline, reducing deployment times by 40%.
+- Mentored junior engineers and conducted rigorous code reviews to maintain high code quality standards.
+
+WebStream Inc. — Backend Developer (2016 - 2020)
+- Designed and optimized PostgreSQL database schemas for a high-traffic e-commerce platform, improving query performance by 60%.
+- Developed scalable server-side logic using Node.js and Express.
+- Integrated third-party payment gateways (Stripe, PayPal) ensuring secure transaction processing.
+- Collaborated with frontend engineers to integrate React-based interfaces with backend services.
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University (2014 - 2016)
+
+Bachelor of Science in Software Engineering
+San Jose State University (2010 - 2014)
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, Go, SQL
+Frameworks: Django, FastAPI, React, Express, Spring Boot
+Tools/Cloud: AWS, Docker, Kubernetes, Git, Jenkins, Terraform, Redis, PostgreSQL
+Concepts: Microservices, REST APIs, System Design, Agile Methodologies

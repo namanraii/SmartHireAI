@@ -1,0 +1,29 @@
+Job Title: Senior Backend Engineer
+Location: Remote
+Company: CloudSync Tech
+
+About Us
+CloudSync Tech is a fast-growing startup revolutionizing cloud storage solutions for enterprise clients. We are looking for an experienced Senior Backend Engineer to join our core product team.
+
+Responsibilities
+- Design, build, and maintain scalable, reliable, and highly available backend services and APIs.
+- Work closely with product managers and frontend engineers to define feature requirements and technical specifications.
+- Lead the architecture transition towards a containerized microservices infrastructure.
+- Optimize application performance and database queries for maximum speed and scalability.
+- Implement robust security measures and data protection protocols.
+- Mentor and guide junior developers on best practices and system design.
+
+Requirements
+- 5+ years of professional backend software development experience.
+- Strong proficiency in Python (FastAPI/Django) or Go.
+- Solid experience designing and optimizing relational databases (PostgreSQL, MySQL).
+- Hands-on experience with cloud platforms, preferably AWS (EC2, S3, RDS, Lambda).
+- Proficiency with containerization technologies (Docker, Kubernetes).
+- Deep understanding of RESTful API design principles and microservices architecture.
+- Excellent problem-solving skills and ability to thrive in a fast-paced environment.
+- Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+
+Nice to Have
+- Experience with real-time data streaming (Kafka, RabbitMQ).
+- Knowledge of infrastructure as code (Terraform, Ansible).
+- Familiarity with NoSQL databases (MongoDB, Redis).
